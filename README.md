@@ -1,1 +1,1 @@
-Diabeted prediction using Mulit layer perceptron
+Diabetes prediction using Multi layer perceptron
